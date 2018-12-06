@@ -1,0 +1,21 @@
+{
+  "name": "automated_cql_execution",
+  "version": "1.0.0",
+  "description": "simple automated cql execution",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "rest",
+    "apis",
+    "node",
+    "express"
+  ],
+  "author": "Affosoft Inc",
+  "license": "CQL Execution"
+}

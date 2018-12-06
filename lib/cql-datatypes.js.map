@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "cql-datatypes.js",
+  "sourceRoot": "..",
+  "sources": [
+    "src/cql-datatypes.coffee"
+  ],
+  "names": [],
+  "mappings": ";AACA;AAAA,MAAA,wBAAA;;AAAA,EAAA,EAAA,GAAK,OAAA,CAAQ,uBAAR,CAAL,CAAA;;AAEA;AAAA,OAAA,qCAAA;qBAAA;AACE,IAAA,MAAM,CAAC,OAAQ,CAAA,OAAA,CAAf,GAA0B,EAAG,CAAA,OAAA,CAA7B,CADF;AAAA,GAFA;AAAA"
+}

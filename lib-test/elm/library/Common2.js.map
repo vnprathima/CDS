@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "Common2.js",
+  "sourceRoot": "../../..",
+  "sources": [
+    "test/elm/library/Common2.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA;;;;;;GAAA;AAAA;AAAA;AAAA;AAAA"
+}

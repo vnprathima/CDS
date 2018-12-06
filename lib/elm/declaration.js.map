@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "declaration.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/elm/declaration.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,mFAAA;IAAA;+BAAA;;AAAA,EAAA,MAA0C,OAAA,CAAQ,cAAR,CAA1C,EAAE,iBAAA,UAAF,EAAc,8BAAA,uBAAd,CAAA;;AAAA,EAEA,MAAM,CAAC,OAAO,CAAC,QAAf,GAAgC;AAAN,gCAAA,CAAA;;;;KAAA;;oBAAA;;KAAuB,wBAFjD,CAAA;;AAAA,EAIA,MAAM,CAAC,OAAO,CAAC,UAAf,GAAkC;AAAN,kCAAA,CAAA;;;;KAAA;;sBAAA;;KAAyB,wBAJrD,CAAA;;AAAA,EAMA,MAAM,CAAC,OAAO,CAAC,mBAAf,GAA2C;AAAN,2CAAA,CAAA;;;;KAAA;;+BAAA;;KAAkC,wBANvE,CAAA;AAAA"
+}

@@ -21,19 +21,19 @@ exports.sampleRequest = function (req, res) {
     res.end(JSON.stringify(response));
 };
 
-exports.testRequest = function (req, res,json ) {
+exports.testRequest = function (req, res, ) {
     var temp = null;
     var resultNew = null;
-    body = json ;
+    body = '' ;
     req.on('data', function (chunk) {
-        body += chunk;
-        console.log(chunk,'------');
+        body += chunk.toString();
+        console.log(chunk.toString(),'------');
     });
     
     // exec('cake build', (err, stdout, stderr) => {
     //     console.log(stdout,'hereeeree');
     // })
-
+    // console.log(body);
     req.on('end', function () {
         postBody = JSON.parse(body);
         cql = "cql = require ('../cql')";
